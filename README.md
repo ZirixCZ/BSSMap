@@ -1,6 +1,6 @@
 # THE APP HAS MOVED
 
-The new repository can be found at: [MicrosoftSTC/BSSMAP](https://github.com/ZirixCZ/BSSMap)
+The new repository can be found at: [MicrosoftSTC/BSSMAP](https://github.com/StudentTraineeCenter/BSSMAP)
 
 # BSSMAP
 
